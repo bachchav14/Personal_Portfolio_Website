@@ -7,5 +7,5 @@ I Developed this Portfolio Website using Html Css &amp; JavaScript
 2. CSS
 3. JAVASCRIPT
 
-#To Run The Project
+#To Run The Project:
 You can clone the repository and open it using VS Code and run.
